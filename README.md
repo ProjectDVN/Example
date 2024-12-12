@@ -8,6 +8,8 @@ This can help up speed the development process. Just note that you will only be 
 
 However you can later build the application to appropriate platforms.
 
+For the full source code visit the main repo for the dvn package here: https://github.com/ProjectDVN/dvn
+
 ## Development
 
 To develop your Visual Novel you must add your resources/edit files in the *data* folder that comes with the build folder.
