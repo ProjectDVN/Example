@@ -1,0 +1,28 @@
+{
+  "Rin_Casual_Smile": {
+    "path": "data/game/characters/Rin_Casual_Smile.png",
+    "size": {
+      "width": 266,
+      "height": 586
+    },
+    "columns": 1,
+    "entries": [{
+      "name": "Rin_Casual_Smile",
+      "row": 0,
+      "col": 0
+    }]
+  },
+  "Sumi_Casual_Smile": {
+    "path": "data/game/characters/Sumi_Casual_Smile.png",
+    "size": {
+      "width": 266,
+      "height": 586
+    },
+    "columns": 1,
+    "entries": [{
+      "name": "Sumi_Casual_Smile",
+      "row": 0,
+      "col": 0
+    }]
+  }
+}

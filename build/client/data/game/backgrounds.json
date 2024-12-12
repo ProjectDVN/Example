@@ -1,0 +1,29 @@
+{
+    "Home": {
+      "path": "data/game/backgrounds/home.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      },
+      "columns": 1,
+      "entries": [{
+        "name": "Home",
+        "row": 0,
+        "col": 0
+      }]
+    },
+    "School": {
+      "path": "data/game/backgrounds/school.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      },
+      "columns": 1,
+      "entries": [{
+        "name": "School",
+        "row": 0,
+        "col": 0
+      }]
+    }
+  }
+  

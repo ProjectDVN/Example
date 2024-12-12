@@ -1,0 +1,10 @@
+{
+  "Test": {
+      "path": "data/game/animations/test.png",
+      "size": {
+          "width": 128,
+          "height": 144
+      },
+      "columns": 11
+  }
+}

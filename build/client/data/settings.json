@@ -1,0 +1,19 @@
+{
+	"fonts": {
+		"msgothic": "data/fonts/msgothic.ttc",
+		"Calibri": "data/fonts/calibri.ttf"
+	},
+	"backupFonts": [
+		"msgothic"
+	],
+	"defaultFont": "Calibri",
+	"muteMusic": false,
+	"muteSoundEffects": false,
+	"volume": 20,
+	"mainScript": "main",
+	"textSpeed": 32,
+	"title": "PROJECT DVN",
+	"loadTitle": "LOADING PROJECT DVN",
+	"saveScene": "main",
+	"fullScreen": false
+}

@@ -1,0 +1,28 @@
+{
+  "MainMenuBackground": {
+    "path": "data/backgrounds/main.png",
+    "size": {
+      "width": 1280,
+      "height": 720
+    },
+    "columns": 1,
+    "entries": [{
+      "name": "MainMenuBackground",
+      "row": 0,
+      "col": 0
+    }]
+  },
+  "Logo": {
+    "path": "data/game/images/logo.png",
+    "size": {
+      "width": 466,
+      "height": 200
+    },
+    "columns": 1,
+    "entries": [{
+      "name": "Logo",
+      "row": 0,
+      "col": 0
+    }]
+  }
+}

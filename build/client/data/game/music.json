@@ -1,0 +1,7 @@
+{
+    "Main": "data/music/main.mp3",
+    "Game": "data/music/game.mp3",
+    "Ending": "data/music/ending.mp3",
+
+    "Hit": "data/music/hit.wav"
+}

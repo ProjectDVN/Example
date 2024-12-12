@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "text": { "hex": "ffffff" },
+    "defaultColors": {
+      "background": { "hex": "000000", "alpha": 152 },
+      "backgroundBottom": { "hex": "000000", "alpha": 48 },
+      "border": { "hex": "000000", "alpha": 52 },
+      "shadow": { "hex": "000000", "alpha": 52 }
+    },
+    "activeColors": {
+      "background": { "hex": "000000", "alpha": 102 },
+      "backgroundBottom": { "hex": "000000", "alpha": 48 },
+      "border": { "hex": "000000", "alpha": 32 },
+      "shadow": { "hex": "000000", "alpha": 32 }
+    }
+  },
+  "defaultFont": "Calibri",
+  "defaultFontSize": "14"
+}

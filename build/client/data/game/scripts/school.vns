@@ -1,0 +1,61 @@
+[school]
+background=School
+music=Game
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+charPos=bottomLeft
+image:12,12=Logo
+text:school-1=What would you like to do?
+
+[school-1]
+background=School
+music=Game
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+image:0,0:topRight=Logo
+option:school-2=This is option 1 (ending)
+option:school-3=This is option 2
+option:school-4=This is option 3
+option:school-5=This is option 4
+
+[school-2]
+background=School
+music=Ending
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+charPos=bottomRight
+textColor=58d68d
+text:end=This is the end of the story! (1)
+
+[school-3]
+background=School
+music=Game
+sound=Hit
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+textColor=e74c3c
+text:school=This is NOT the end of the story! (2)
+
+[school-4]
+background=School
+music=Game
+sound=Hit
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+textColor=e74c3c
+text:school=This is NOT the end of the story! (3)
+
+[school-5]
+background=School
+music=Game
+sound=Hit
+char=Sumi_Casual_Smile
+charName=Sumi
+charColor=85c1e9
+textColor=e74c3c
+text:school=This is NOT the end of the story! (4)

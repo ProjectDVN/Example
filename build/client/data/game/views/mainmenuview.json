@@ -1,0 +1,59 @@
+{
+  "items": [{
+      "image": {
+        "source": "MainMenuBackground",
+        "position": [0,0],
+        "location": "center"
+      }
+    }, {
+      "image": {
+        "source": "Logo",
+        "position": [0,0],
+        "location": "topCenter",
+        "relativeY": "12"
+      }
+    }, {
+      "label": {
+        "name": "playLabel",
+        "text": "New Game",
+        "location": "center",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }, {
+      "label": {
+        "name": "loadLabel",
+        "text": "Load Game",
+        "location": "topCenter",
+        "relativeY": "playLabelY+playLabelHeight+16",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }, {
+      "label": {
+        "name": "settingsLabel",
+        "text": "Settings",
+        "location": "topCenter",
+        "relativeY": "loadLabelY+loadLabelHeight+16",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }, {
+      "label": {
+        "name": "exitLabel",
+        "text": "Exit",
+        "location": "topCenter",
+        "relativeY": "settingsLabelY+settingsLabelHeight+16",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }]
+}
