@@ -3,12 +3,12 @@
 	"targetType": "executable",
 	"targetPath": "../../build/client",
 	"targetName": "DVN",
-	"lflags" : ["/LIBPATH:libs_win_sdl_x64"],
+	"lflags" : ["/LIBPATH:libs_win_sdl_x64", "/SUBSYSTEM:windows"],
 	"versions": [
 		"ZID_SDL"
 	],
 	"dependencies": {
 		"derelict-util": "~>3.0.0-beta.1",
-		"dvn": "0.0.1"
+		"dvn": "0.0.3"
 	}
 }

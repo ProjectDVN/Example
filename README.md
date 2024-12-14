@@ -67,6 +67,11 @@ Example:
 
 ```ini
 [main]
+music=Main
+background=MainMenuBackground
+act:start:Start Story=Act 1 - Main
+
+[start]
 background=Home
 music=Game
 char=Rin_Casual_Smile
@@ -99,7 +104,12 @@ charNamePos=right
 charColor=d7bde2
 charPos=bottomRight
 animation:0,0:true:topLeft=Test
-text:school=This example demonstrates the basic functionality of DVN.
+text:school-act=This example demonstrates the basic functionality of DVN.
+
+[school-act]
+music=Main
+background=MainMenuBackground
+act:school:Continue=Act 2 - School
 
 [school]
 background=School
@@ -201,3 +211,5 @@ It's important that background and music is present for each entry, otherwise sa
 *image:X,Y:POSITION* where *POSITION* is a given position for the image. Values supported are *topLeft*, *topCenter*, *topRight*, *left*, *center*, *right*, *bottomLeft*, *bottomCenter*, *bottomRight*
 
 *option:SCENE=VALUE* where *SCENE* is the next scene entry when the option is chosen and *VALUE* is the text to display for the option.
+
+*act:SCENE:CONTINUE_TEXT=VALUE* where *SCENE* is the next scene entry, *CONTINUE_TEXT* is the text of the continue label, *VALUE* is the text of the act view.

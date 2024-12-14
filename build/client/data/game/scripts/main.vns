@@ -1,4 +1,9 @@
 [main]
+music=Main
+background=MainMenuBackground
+act:start:Start Story=Act 1 - Main
+
+[start]
 background=Home
 music=Game
 char=Rin_Casual_Smile
@@ -31,4 +36,4 @@ charNamePos=right
 charColor=d7bde2
 charPos=bottomRight
 animation:0,0:true:topLeft=Test
-text:school=This example demonstrates the basic functionality of DVN.
+text:school-act=This example demonstrates the basic functionality of DVN.
